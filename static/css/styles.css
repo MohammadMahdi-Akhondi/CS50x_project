@@ -1,0 +1,66 @@
+body
+{
+    font-family: 'Open Sans';
+    font-size: 22px;
+    background-image: url('../pictures/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+.content
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding:2rem;
+}
+
+.mobile-content
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding:1rem;
+    width: 15rem;
+    height: 20rem;
+    font-size: 15px;
+}
+
+#btn1
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#panel
+{
+    margin-top: 75px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#mobile_panel
+{
+    margin-top: 75px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    width: 15rem;
+    height: 20rem;
+}
+
+.button_table
+{
+    font-family: "Arial Bold", Gadget, sans-serif;
+     font-style: normal;
+     font-size: 15px ! important;
+}
